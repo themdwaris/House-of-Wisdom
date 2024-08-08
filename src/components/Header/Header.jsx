@@ -85,7 +85,7 @@ const Header = () => {
               />
               <Links
                 path="/vision"
-                name="Vison"
+                name="Vision"
                 toggle={toggle}
                 setToggle={setToggle}
               />
