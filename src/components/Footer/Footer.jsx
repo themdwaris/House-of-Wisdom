@@ -18,13 +18,13 @@ const Footer = () => {
                 RESOURCES
               </li>
               <li className="underline text-gray-700">
-              <Link to="/"name="HOW" >HOW</Link>
+              <Link to="/" >HOW</Link>
               </li>
               <li className="underline text-gray-700">
-              <Link to="/about"name="About" >About</Link>
+              <Link to="/about" >About</Link>
               </li>
               <li className="underline text-gray-700">
-              <Link to="/vision"name="Vison" >About</Link>
+              <Link to="/vision" >Vision</Link>
               </li>
             </ul>
             <ul>
