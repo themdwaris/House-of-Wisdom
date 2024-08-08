@@ -22,7 +22,7 @@ const Header = () => {
         <div className="hidden md:flex items-center gap-5 md:gap-12">
           <Links path="/" name="HOW" />
           <Links path="about" name="About" />
-          <Links path="vison" name="Vision" />
+          <Links path="vision" name="Vision" />
         </div>
         <div className="flex items-center gap-4">
           <div className="hidden md:flex items-center gap-4 text-base ">
@@ -84,7 +84,7 @@ const Header = () => {
                 setToggle={setToggle}
               />
               <Links
-                path="/vison"
+                path="/vision"
                 name="Vison"
                 toggle={toggle}
                 setToggle={setToggle}
